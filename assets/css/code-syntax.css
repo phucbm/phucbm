@@ -1,0 +1,212 @@
+/* Light mode */
+.highlight {
+    --cs-str:#d14;
+    --cs-tag:#000080;
+    --cs-var:#008080;
+    --cs-key:#cf212e;
+    --cs-ge:#24292f;
+    --cs-cm:#788089;
+    --cs-nx:#0450ae;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme:dark) {
+    .highlight {
+        --cs-str:#96cfff;
+        --cs-tag:#8ddb8c;
+        --cs-var:#6bb6ff;
+        --cs-key:#f57167;
+        --cs-ge:#adbac7;
+        --cs-cm:#768390;
+        --cs-nx:#6bb6ff;
+    }
+}
+
+/* Common */
+.highlight,
+.highlight .p {color:var(--cs-ge);}
+
+/* Namespace */
+.highlight .nx {color:var(--cs-nx);}
+
+/* Comment */
+.highlight .c {color:var(--cs-cm); font-style:italic;}
+
+/* Error */
+.highlight .err {color:#a61717; background-color:#e3d2d2;}
+
+/* Keyword */
+.highlight .k {color:var(--cs-key);}
+
+/* Operator */
+.highlight .o {font-weight:bold;}
+
+/* Comment.Multiline */
+.highlight .cm {color:var(--cs-cm); font-style:italic;}
+
+/* Comment.Preproc */
+.highlight .cp {color:#999; font-weight:bold;}
+
+/* Comment.Single */
+.highlight .c1 {color:var(--cs-cm); font-style:italic;}
+
+/* Comment.Special */
+.highlight .cs {color:#999; font-weight:bold; font-style:italic;}
+
+/* Generic.Deleted */
+.highlight .gd {color:#000; background-color:#fdd;}
+
+/* Generic.Deleted.Specific */
+.highlight .gd .x {color:#000; background-color:#faa;}
+
+/* Generic.Emph */
+.highlight .ge {font-style:italic;}
+
+/* Generic.Error */
+.highlight .gr {color:var(--cs-ge);}
+
+/* Generic.Heading */
+.highlight .gh {color:var(--cs-ge)}
+
+/* Generic.Inserted */
+.highlight .gi {color:#000; background-color:#dfd;}
+
+/* Generic.Inserted.Specific */
+.highlight .gi .x {color:#000; background-color:#afa;}
+
+/* Generic.Output */
+.highlight .go {color:#888;}
+
+/* Generic.Prompt */
+.highlight .gp {color:#555;}
+
+/* Generic.Strong */
+.highlight .gs {font-weight:bold;}
+
+/* Generic.Subheading */
+/* Generic.Traceback */
+.highlight .gu,
+.highlight .gt {color:var(--cs-ge)}
+
+/* Keyword.Constant */
+/* Keyword.Declaration */
+/* Keyword.Pseudo */
+/* Keyword.Reserved */
+.highlight .kc,
+.highlight .kd,
+.highlight .kp,
+.highlight .kr {color:var(--cs-key);}
+
+/* Keyword.Type */
+.highlight .kt {color:#458; font-weight:bold;}
+
+/* Literal.Number */
+.highlight .m {color:#099;}
+
+/* Literal.String */
+.highlight .s {color:var(--cs-str);}
+
+/* Name.Attribute */
+.highlight .na {color:var(--cs-var);}
+
+/* Name.Builtin */
+.highlight .nb {color:#0086b3;}
+
+/* Name.Class */
+.highlight .nc {color:#458; font-weight:bold;}
+
+/* Name.Constant */
+.highlight .no {color:var(--cs-var);}
+
+/* Name.Entity */
+.highlight .ni {color:#800080;}
+
+/* Name.Exception */
+.highlight .ne {color:#900; font-weight:bold;}
+
+/* Name.Function */
+.highlight .nf {color:#900; font-weight:bold;}
+
+/* Name.Namespace */
+.highlight .nn {color:#555;}
+
+/* Name.Tag */
+.highlight .nt {color:var(--cs-tag);}
+
+/* Name.Variable */
+.highlight .nv {color:var(--cs-var);}
+
+/* Operator.Word */
+.highlight .ow {font-weight:bold;}
+
+/* Text.Whitespace */
+.highlight .w {color:#bbb;}
+
+/* Literal.Number.Float */
+.highlight .mf {color:#099;}
+
+/* Literal.Number.Hex */
+.highlight .mh {color:#099;}
+
+/* Literal.Number.Integer */
+.highlight .mi {color:#099;}
+
+/* Literal.Number.Oct */
+.highlight .mo {color:#099;}
+
+/* Literal.String.Backtick */
+.highlight .sb {color:var(--cs-str);}
+
+/* Literal.String.Char */
+.highlight .sc {color:var(--cs-str);}
+
+/* Literal.String.Doc */
+.highlight .sd {color:var(--cs-str);}
+
+/* Literal.String.Double */
+.highlight .s2 {color:var(--cs-str);}
+
+/* Literal.String.Escape */
+.highlight .se {color:var(--cs-str);}
+
+/* Literal.String.Heredoc */
+.highlight .sh {color:var(--cs-str);}
+
+/* Literal.String.Interpol */
+.highlight .si {color:var(--cs-str);}
+
+/* Literal.String.Other */
+.highlight .sx {color:var(--cs-str);}
+
+/* Literal.String.Regex */
+.highlight .sr {color:#009926;}
+
+/* Literal.String.Single */
+.highlight .s1 {color:var(--cs-str);}
+
+/* Literal.String.Symbol */
+.highlight .ss {color:#990073;}
+
+/* Name.Builtin.Pseudo */
+.highlight .bp {color:#999;}
+
+/* Name.Variable.Class */
+.highlight .vc {color:var(--cs-var);}
+
+/* Name.Variable.Global */
+.highlight .vg {color:var(--cs-var);}
+
+/* Name.Variable.Instance */
+.highlight .vi {color:var(--cs-var);}
+
+/* Literal.Number.Integer.Long */
+.highlight .il {color:#099;}
+
+/* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
+.highlight .lineno {-webkit-user-select:none;-moz-user-select:none;}
+
+/* Mozilla specific */
+.lineno::-moz-selection {background-color:transparent;}
+
+/* Other major browsers */
+.lineno::selection {background-color:transparent;}

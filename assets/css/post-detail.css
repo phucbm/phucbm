@@ -1,0 +1,10 @@
+/* title */
+.post-title {
+    border-bottom:1px solid var(--a-border);
+    padding-bottom:var(--a-space-small); margin-bottom:var(--a-space-small);
+}
+
+/* metadata */
+.post-metadata-info {padding-left:var(--a-padding);}
+.post-metadata .logo {width:var(--a-post-logo-width); margin-bottom:0;}
+.post-tags {padding-top:8px;}

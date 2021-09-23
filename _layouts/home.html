@@ -1,0 +1,15 @@
+---
+layout: base
+css:
+- "/assets/css/posts.css"
+header: "header-home.html"
+---
+
+<ul class="posts margin-bottom">
+    {% for post in paginator.posts %}
+    {% include post-item.html %}
+    {% endfor %}
+</ul>
+
+
+{% include pagination.html %}

@@ -1,0 +1,68 @@
+:root {
+    /* Spacing */
+    --a-space:40px;
+    --a-space-small:20px;
+
+    /* Color */
+    --a-body-background:#fcfdfb;
+    --a-body-color:#254440;
+    --a-post-item-background:#fff;
+
+    --a-primary:#007bfe;
+    --a-on-primary:#fff;
+    --a-secondary:#718096;
+    --a-border:#e5e5e5;
+
+    /* Font size */
+    --a-h1:32px;
+    --a-h2:25px;
+    --a-h3:22px;
+    --a-h4:20px;
+    --a-h5:18px;
+    --a-h6:16px;
+    --a-font-body:18px;
+    --a-font-small:14px;
+
+    /* UI */
+    --a-logo-width:100px;
+    --a-post-logo-width:60px;
+    --a-padding:20px;
+}
+
+/* Styles for users who prefer dark mode at the OS level */
+@media (prefers-color-scheme:dark) {
+    :root {
+        /* Color */
+        --a-body-background:#22272e;
+        --a-body-color:#adbac7;
+        --a-post-item-background:#1b262c;
+
+        --a-primary:#549af5;
+        --a-on-primary:#fff;
+        --a-secondary:#afafbf;
+        --a-border:#404040;
+        --a-dark:#2d3748;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    :root {
+        /* Spacing */
+        --a-space:35px;
+        --a-space-small:16px;
+
+        /* Font size */
+        --a-h1:26px;
+        --a-h2:25px;
+        --a-h3:24px;
+        --a-h4:18px;
+        --a-h5:16px;
+        --a-h6:15px;
+        --a-font-body:15px;
+
+        /* UI */
+        --a-logo-width:60px;
+        --a-post-logo-width:40px;
+        --a-padding:15px;
+    }
+}
