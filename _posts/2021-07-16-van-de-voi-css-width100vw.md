@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vấn đề với CSS width:100vw và cách xử lý"
+title: "Vấn đề với CSS width:100vw"
 description: ""
 tags:
 - css
@@ -20,7 +20,7 @@ ta dùng `width:100vw` kết hợp với `position:fixed` hoặc `position:absol
 
 Ví dụ dưới đây khi làm một sticky menu bar dùng `position:fixed` và `width:100vw`.
 
-![Issue](/assets/posts/2021-07-16-van-de-voi-css-width100vw-va-cach-xu-ly/issue.jpeg "Issue")
+![Issue](assets/posts/2021-07-16-van-de-voi-css-width100vw/issue.jpeg "Issue")
 
 Màn giao lưu này ngay lập tức sinh ra một đứa con ngoài mong muốn là horizontal scroll bar. Biết rằng ở ví dụ này, chúng
 ta có một vài cách để xử lý:
@@ -32,9 +32,11 @@ Tuy nhiên trong thực tế có những trường hợp nếu không dùng `wid
 dưới đây sẽ demo cho việc dùng `position:absolute` và `width:100vw` để làm full screen background, bạn có thể thay đổi
 giá trị width của background để xem rõ vấn đề.
 
-<iframe src="https://codepen.io/phucbui/pen/mdmWvXy"
-style="width:100%; height:300px;"
-> </iframe>
+<iframe height="399" style="width: 100%;" scrolling="no" title="Problems of CSS width:100vw and workaround" src="https://codepen.io/phucbui/embed/preview/mdmWvXy?default-tab=result&editable=true" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/phucbui/pen/mdmWvXy">
+  Problems of CSS width:100vw and workaround</a> by Minh-Phuc Bui (<a href="https://codepen.io/phucbui">@phucbui</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
 
 ## Cách giải độc
 
@@ -88,7 +90,7 @@ $(window).on("load resize", updateCustomCSSVariable);
 
 Và đây là kết quả mà chúng ta có được.
 
-![Issue solved](/assets/posts/2021-07-16-van-de-voi-css-width100vw-va-cach-xu-ly/issue-solved.jpeg "Issue solved")
+![Issue solved](assets/posts/2021-07-16-van-de-voi-css-width100vw/issue-solved.jpeg "Issue solved")
 
 ## Các đường dẫn có thể bạn muốn xem
 

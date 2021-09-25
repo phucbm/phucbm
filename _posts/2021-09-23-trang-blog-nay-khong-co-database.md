@@ -23,7 +23,7 @@ cái database, cái mà chứa cả tâm huyết tui gõ ra phải luôn nằm t
 Ở thời điểm hiện tại, thứ mà tui truy cập mỗi ngày, trừ mấy trang tin tức, mạng mẽo ra
 thì đó là GitHub.
 
-![Host my blog on GitHub](/assets/posts/2021-09-23-trang-blog-nay-khong-co-database/googling.png "Host my blog on GitHub")
+![Host my blog on GitHub](assets/posts/2021-09-23-trang-blog-nay-khong-co-database/googling.png "Host my blog on GitHub")
 
 ## Vấp phải Jekyll
 
@@ -38,7 +38,7 @@ Với sự kết hợp này, các bài viết sẽ được biên tập bằng f
 quản lý qua các folder và đường dẫn. Phần backend của blog được viết bằng Liquid, một
 ngôn ngữ được tạo ra bởi Shopify và cũng không mất quá nhiều thời gian để làm quen.
 
-![Jekyll on GitHub](/assets/posts/2021-09-23-trang-blog-nay-khong-co-database/github-search-jekyll.png "Jekyll on GitHub")
+![Jekyll on GitHub](assets/posts/2021-09-23-trang-blog-nay-khong-co-database/github-search-jekyll.png "Jekyll on GitHub")
 
 Trên GitHub đã có rất nhiều repo để bạn có thể fork và sử dụng luôn. Nhưng đa số
 các trang này đã được phát triển cùng với hàng loạt những tính năng mà không phải
