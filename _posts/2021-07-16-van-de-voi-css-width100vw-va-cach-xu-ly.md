@@ -20,7 +20,7 @@ ta dùng `width:100vw` kết hợp với `position:fixed` hoặc `position:absol
 
 Ví dụ dưới đây khi làm một sticky menu bar dùng `position:fixed` và `width:100vw`.
 
-![Issue](../assets/posts/2021-07-16-van-de-voi-css-width100vw-va-cach-xu-ly/issue.jpeg "Issue")
+![Issue](/assets/posts/2021-07-16-van-de-voi-css-width100vw-va-cach-xu-ly/issue.jpeg "Issue")
 
 Màn giao lưu này ngay lập tức sinh ra một đứa con ngoài mong muốn là horizontal scroll bar. Biết rằng ở ví dụ này, chúng
 ta có một vài cách để xử lý:
@@ -88,7 +88,7 @@ $(window).on("load resize", updateCustomCSSVariable);
 
 Và đây là kết quả mà chúng ta có được.
 
-![Issue solved](../assets/posts/2021-07-16-van-de-voi-css-width100vw-va-cach-xu-ly/issue-solved.jpeg "Issue solved")
+![Issue solved](/assets/posts/2021-07-16-van-de-voi-css-width100vw-va-cach-xu-ly/issue-solved.jpeg "Issue solved")
 
 ## Các đường dẫn có thể bạn muốn xem
 
