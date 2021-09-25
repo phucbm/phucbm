@@ -5,7 +5,7 @@ author: "Phúc Bùi"
 title: "Phúc's Blog"
 title_sep: " | "
 description: "Vẫn đang suy nghĩ nên viết gì ở đây 🤔"
-logo: "/assets/images/avatar.png"
+logo: "/assets/img/avatar.png"
 language: "vi"
 
 ## global assets will be loaded in head
