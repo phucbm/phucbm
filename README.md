@@ -9,7 +9,7 @@
 
 #### Works 🧑🏻‍💻
 
-- Front-end Engineering Lead at [ViiVue Agency](https://viivue.com)
+- Front-end Web Developer Lead at [ViiVue Agency](https://viivue.com)
 - Guest Game Developer at [Hot Cross](https://hotcross.com/)
 
 #### Social Networks 👀
