@@ -20,3 +20,4 @@ Alright, [here](https://youtu.be/pV3RZgpoGEU?t=33) is how to pronounce **/fʊkb 
 - [linkedin.com/in/phucbm](https://www.linkedin.com/in/phucbm/)
 - [goodreads.com/phucbm](https://www.goodreads.com/phucbm)
 - [twitter.com/_phucbm](https://twitter.com/_phucbm)
+- [strava/🏃‍♂️🚴‍♀️](https://www.strava.com/athletes/34538433)
