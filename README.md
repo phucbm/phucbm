@@ -3,13 +3,13 @@ Alright, [here](https://youtu.be/pV3RZgpoGEU?t=33) is how to pronounce **/fʊkb 
 
 #### Side Projects ✨
 
-- [Lipsum Generator](https://www.producthunt.com/posts/lipsum-generator) - Generate lorem ipsum dummy text in a drop of a hat.
+- [Lipsum Generator](https://www.producthunt.com/posts/lipsum-generator) - Generate lorem ipsum dummy text in a drop of a hat (over 3K users 🎉).
 - [Scroll Snooper](https://github.com/phucbm/scroll-snooper) - A JavaScript API that goes snooping around elements while scrolling
 - [Easy Select](https://github.com/viivue/easy-select) - A jQuery plugin to customize native select
 
 #### Works 🧑🏻‍💻
 
-- Lead Front-end Developer at [ViiVue Agency](https://viivue.com)
+- Lead Front-end Developer at [ViiVue Web Design Company](https://viivue.com)
 - Guest HTML5 Game Developer at [HotCross](https://hotcross.com/)
 
 #### Networks 👀
