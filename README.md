@@ -3,8 +3,9 @@ Alright, [here](https://youtu.be/pV3RZgpoGEU?t=33) is how to pronounce **/fʊkb 
 
 #### Side Projects ✨
 
-- [Lipsum Generator](https://www.producthunt.com/posts/lipsum-generator) - Generate lorem ipsum dummy text in a drop of a hat (over 3K users 🎉).
-- [Scroll Snooper](https://github.com/phucbm/scroll-snooper) - A JavaScript API that goes snooping around elements while scrolling
+- [Flickity Responsive](https://github.com/phucbm/flickity-responsive) - Adds `responsive` option for Flickity (over 700k hits/month on jsDelivr 🤯)
+- [Lipsum Generator](https://www.producthunt.com/posts/lipsum-generator) - Generate lorem ipsum dummy text in a drop of a hat (~4K users 🎉).
+- [Scroll Snooper](https://github.com/phucbm/scroll-snooper) - A mimic version of GSAP Scroll Trigger
 - [Easy Select](https://github.com/viivue/easy-select) - VanillaJS library to style the native select tag easily
 - [Easy Popup](https://github.com/viivue/easy-popup) - Super light-weight JavaScript library to create simple popups
 - [Easy Tab Accordion](https://github.com/viivue/easy-tab-accordion) - Javascript library to create tabs or accordion
