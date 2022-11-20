@@ -1,0 +1,13 @@
+.idea
+.gitignore
+.babelrc.json
+.eslintrc.json
+.prettierrc.json
+jsconfig.json
+/_data
+/_includes
+/_layouts
+/_posts
+/assets
+/tags
+*.md
