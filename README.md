@@ -15,12 +15,6 @@ Alright, [here](https://youtu.be/pV3RZgpoGEU?t=33) is how to pronounce **/fʊkb 
 - [Overlapping Slider](https://github.com/viivue/overlapping-slider) - Small GSAP slider library
 - [ACF Icomoon](https://github.com/viivue/acf-icomoon) - Advanced Custom Field add-on to select IcoMoon
 
-
-#### Works 🧑🏻‍💻
-
-- Lead Front-end Developer at [ViiVue Web Design Company](https://viivue.com)
-- Guest HTML5 Game Developer at [HotCross](https://hotcross.com/)
-
 #### Networks 👀
 
 - [github.com/phucbm](https://github.com/phucbm)
