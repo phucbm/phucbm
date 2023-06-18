@@ -1,23 +1,16 @@
-### 👋 Hi there, I'm Phuc Bui.
-Alright, [here](https://youtu.be/pV3RZgpoGEU?t=33) is how to pronounce **/fʊkb buːi/** in the most pleasant way.
+### 👋 Hi there, I'm Minh-Phuc Bui.
 
-#### Side Projects ✨
+Currently working full-time at [ViiVue](https://www.viivue.com/) with the role of Front-end team lead.
 
-- [Flickity Responsive](https://github.com/phucbm/flickity-responsive) - Adds `responsive` option for Flickity [![jsdelivr](https://data.jsdelivr.com/v1/package/gh/phucbm/flickity-responsive/badge?style=rounded)](https://www.jsdelivr.com/package/gh/phucbm/flickity-responsive)
-- [Lipsum Generator](https://www.producthunt.com/posts/lipsum-generator) - Generate lorem ipsum dummy text in a drop of a hat [![weekly user](https://badgen.net/badge/users/~4K/green?icon=chrome)](https://chrome.google.com/webstore/detail/lipsum-generator/fepopmflofkppphpkfjdbmimglkeifna)
-- [Scroll Snooper](https://github.com/phucbm/scroll-snooper) - A mimic version of GSAP Scroll Trigger [![npm package](https://badgen.net/npm/dm/scroll-snooper)](https://www.npmjs.com/package/scroll-snooper)
-- [Atomic CSS](https://github.com/viivue/atomic-css) - Customizable Atomic CSS Framework [![npm package](https://badgen.net/npm/dm/@viivue/atomic-css)](https://www.npmjs.com/package/@viivue/atomic-css)
-- [Easy Select](https://github.com/viivue/easy-select) - VanillaJS library to style the native select tag easily
-- [Easy Popup](https://github.com/viivue/easy-popup) - Super light-weight JavaScript library to create simple popups
-- [Easy Tab Accordion](https://github.com/viivue/easy-tab-accordion) - Javascript library to create tabs or accordion
-- [PiaJS](https://github.com/phucbm/pia) - A simple, light-weight JavaScript API for handling browser storage
-- [Frontend-debug](https://github.com/viivue/frontend-debug) - Debug tool for front-end dev
-- [Overlapping Slider](https://github.com/viivue/overlapping-slider) - Small GSAP slider library
-- [ACF Icomoon](https://github.com/viivue/acf-icomoon) - Advanced Custom Field add-on to select IcoMoon
+I've done and led our team to deliver more than 400 websites, from local business websites across Europe and Australia to some of the big corporate companies in the VN industry.
+
+I offer private tutoring for those who want to improve or levitate their FE skills, esp abt the base knowledge of CSS/HTML, vanilla JS, and web 2D animations. The curriculum will be tailor-made for each individual in order to achieve the most optimized and efficient outcome. Feel free to drop me an email for further discussion.
+
+#### Open-source projects
+- The Easy Series: [Easy Select](https://github.com/viivue/easy-select), [Easy Popup](https://github.com/viivue/easy-popup), [Easy Tab Accordion](https://github.com/viivue/easy-tab-accordion)
+- Fun projects: [Scroll Snooper](https://github.com/phucbm/scroll-snooper), [Lipsum Generator](https://www.producthunt.com/posts/lipsum-generator), [Flickity Responsive](https://github.com/phucbm/flickity-responsive)
 
 #### Networks 👀
-
-- [github.com/phucbm](https://github.com/phucbm)
 - [stackoverflow/phucbm](https://stackoverflow.com/users/6453822/phucbm)
 - [linkedin.com/in/phucbm](https://www.linkedin.com/in/phucbm/)
 - [npmjs.com/~phucbm](https://www.npmjs.com/~phucbm)
