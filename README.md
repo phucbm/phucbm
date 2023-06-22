@@ -1,11 +1,5 @@
 ### 👋 Hi there, I'm Minh-Phuc Bui.
 
-Currently working full-time at [ViiVue](https://www.viivue.com/) with the role of Front-end team lead.
-
-I've done and led our team to deliver more than 400 websites, from local business websites across Europe and Australia to some of the big corporate companies in the VN industry.
-
-I offer private tutoring for those who want to improve or levitate their FE skills, esp abt the base knowledge of CSS/HTML, vanilla JS, and web 2D animations. The curriculum will be tailor-made for each individual in order to achieve the most optimized and efficient outcome. Feel free to drop me an email for further discussion.
-
 #### Open-source projects
 - The Easy Series: [Easy Select](https://github.com/viivue/easy-select), [Easy Popup](https://github.com/viivue/easy-popup), [Easy Tab Accordion](https://github.com/viivue/easy-tab-accordion)
 - Fun projects: [Scroll Snooper](https://github.com/phucbm/scroll-snooper), [Lipsum Generator](https://www.producthunt.com/posts/lipsum-generator), [Flickity Responsive](https://github.com/phucbm/flickity-responsive)
