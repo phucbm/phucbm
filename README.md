@@ -14,11 +14,6 @@ More highlighted projects at the pinned section below.
 - [linkedin.com/in/phucbm](https://www.linkedin.com/in/phucbm/)
 - [npmjs.com/~phucbm](https://www.npmjs.com/~phucbm)
 
-####
-
-> **Note**<br>
-> Hey, I do private mentorship for those who want to improve their skills about vanilla CSS/JS. The curriculum will be tailor-made for each individual to give you the best out of what you have paid for. Just drop me an mail letting me know what you need ;)
-
 ---
 
 [![Made in Vietnam](https://raw.githubusercontent.com/webuild-community/badge/master/svg/made.svg)](https://webuild.community)
