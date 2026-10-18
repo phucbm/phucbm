@@ -1,0 +1,21 @@
+name: Followers to Discord
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'  # Every 6 hours
+  workflow_dispatch:        # Enables manual trigger via GitHub web
+
+permissions:
+  contents: write  # To commit the follower list
+
+jobs:
+  followers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Post follower changes to Discord
+        uses: phucbm/github-followers-action@v1  # Docs https://github.com/phucbm/github-followers-action
+        with:
+          discord-webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
