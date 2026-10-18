@@ -1,6 +1,6 @@
 ### Hi, I'm Phuc Bui 👋
 
-Still making things for the world wide web, now also building websites for clients at **[Perxel](https://perxel.com)**.
+Still making things for the world wide web, now also crafting digital solutions for clients at **[Perxel](https://perxel.com)**.
 
 🌐 New home: **[phucbm.com](https://phucbm.com)**
 
